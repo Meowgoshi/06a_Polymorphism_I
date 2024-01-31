@@ -4,6 +4,6 @@ public class Drone extends Honeybee
 {
     public String doYourJob()
     {
-        return "Buzz buzz!";
+        return "I'm going to stab you!";
     }
 }
